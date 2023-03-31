@@ -33,7 +33,6 @@ const router = async () => {
     { path: "/manual", view: ManualView },
     { path: "/game", view: GameView },
     { path: "/end", view: EndView },
-    { path: "/manual2", view: ManualView2 },
   ];
 
   // Test each route for potential match
