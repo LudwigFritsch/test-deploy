@@ -13,7 +13,7 @@ export default class extends AbstractView {
             <a href="/manual" class="closeButton" data-link> 
               <img src="/static/images/tiles/Zurueck.png" 
               height = "24px" width = "24px" > </a>
-              <a href="/mainMenu" class="closeButton" data-link>
+              <a href="/" class="closeButton" data-link>
               <img src="/static/images/Exit.png"
               height = "24px" width = "24px" ></a>
           </div>

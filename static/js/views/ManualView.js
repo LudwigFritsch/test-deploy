@@ -11,7 +11,7 @@ export default class extends AbstractView {
         <div class="manualContainer">
           <div class="manualButtonContainer">
              <div class="closebutton">
-              <a href="/mainMenu" class="closeButton" data-link><img src="/static/images/Exit.png"
+              <a href="/" class="closeButton" data-link><img src="/static/images/Exit.png"
               height = "24px" width = "24px" ></a> 
              </div>
           </div>
